@@ -1,3 +1,2 @@
 # ICPC-template
 目前模板还在完善中...
-当前 Branch 存放所有草稿内容。
